@@ -1,20 +1,22 @@
 # Python cache
 __pycache__/
 *.py[cod]
-ECHO 已啟動。
+
 # Jupyter
 .ipynb_checkpoints/
-ECHO 已啟動。
-# Data files
-data/
-*.csv
-*.xlsx
-ECHO 已啟動。
+
+# 原始資料（不要推上去）
+data/user_mobile_app_interaction_data.csv
+
+# 允許清理後資料被追蹤
+!data/processed_app_interactions.csv
+
 # Envs
 venv/
 .env/
-ECHO 已啟動。
+
 # Logs / IDE / system
 *.log
 .vscode/
 .DS_Store
+
