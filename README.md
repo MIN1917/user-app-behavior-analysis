@@ -53,7 +53,7 @@ jupyter lab notebooks/01_EDA.ipynb
 📷 Dashboard 截圖：  
 ![Dashboard Overview](reports/dashboard_overview.png)
 
-📑 [投影片下載 (PPTX)](reports/行動 App 用戶轉換分析總覽.pptx)
+📑 [投影片下載 (PPTX)](reports/app_user_conversion_overview.pptx)
 
 📝 備註
 
